@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones Creacionales/Patrones Creacionales.iml" filepath="$PROJECT_DIR$/Patrones Creacionales/Patrones Creacionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones Estructurales/Patrones Estructurales.iml" filepath="$PROJECT_DIR$/Patrones Estructurales/Patrones Estructurales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones de Comportamiento/Patrones de Comportamiento.iml" filepath="$PROJECT_DIR$/Patrones de Comportamiento/Patrones de Comportamiento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Principios SOLID/Principios SOLID.iml" filepath="$PROJECT_DIR$/Principios SOLID/Principios SOLID.iml" />
     </modules>
   </component>
